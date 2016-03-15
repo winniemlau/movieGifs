@@ -1,0 +1,81 @@
+body{
+  background-color: #87addc;
+}
+
+.container {
+  width: 960px;
+  background-color:;
+  margin: auto;
+}
+
+#banner img {
+  margin-top: 40px;
+
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 42pt;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14pt;
+  text-align: left;
+}
+
+label {
+  font-size: 14pt;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+#addMovie {
+  border: none;
+  border-radius: 5px;
+  font-size: 14pt;
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin: -50px 200px 0px 0px;
+  transition: all 0.5s;
+  cursor: pointer;
+  font-family: 'Roboto Condensed', sans-serif;
+  float: right;
+  overflow: hidden;
+}
+
+#addMovie:hover{
+  background-color: red;
+  border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999;
+}
+
+button{
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #bcd9e9;
+  font-size: 14pt;
+  color: white;
+  padding: 10px;
+  transition: all 0.5s;
+  cursor: pointer;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+button:hover {
+    background-color: red;
+  border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999; 
+}
+
+#movie-form {
+  text-align: center;
+}
+
+#gifsAppearHere {
+  margin: 10px;
+}
