@@ -1,11 +1,18 @@
 #Week 6 Assignment
 ##Movie Gifs Finder
 
-###Objectives
+###Objective
+
+* Using the Giphy API, make an app that searches for the desired gifs
 
 ###Technologies
 
-###Logic
+* HTML
+* CSS
+* Javascript
+* jQuery
+* Giphy API
+* Ajax
 
 ###Deployed App
 
