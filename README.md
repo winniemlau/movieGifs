@@ -15,7 +15,3 @@
 * jQuery
 * Giphy API
 * Ajax
-
-###Deployed App
-
-Heroku:
