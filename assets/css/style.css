@@ -69,7 +69,7 @@ button{
 
 button:hover {
     background-color: red;
-  border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999; 
+  border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999;
 }
 
 #movie-form {
@@ -78,4 +78,9 @@ button:hover {
 
 #gifsAppearHere {
   margin: 10px;
+}
+
+.imagestyling{
+	display: inline-block;
+	margin: 20px 20px 20px 50px;
 }
