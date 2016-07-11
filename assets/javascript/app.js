@@ -1,5 +1,4 @@
-var movies =['Toy Story', 'Brave', 'The Incredibles', 'Up', 'Inside Out']
-
+var movies =['Toy Story', 'Brave', 'The Incredibles', 'Up', 'Inside Out'];
 
 $(document).ready(function() {
 	renderButtons();
